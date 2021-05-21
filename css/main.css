@@ -1,0 +1,47 @@
+.header{
+   
+    width: 100%;
+    min-height: 100vh;
+    background-image: url(../img/banner.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.navbar{
+    width: 100%;
+    border-radius: 20px;
+    
+    
+}
+
+.bg-dark{
+    border-radius: 20px;
+    position: static;
+    z-index: 1;
+    width: 100%;
+    background-color: transparent!important;
+}
+.texto{
+    
+    padding: 50px;
+    align-content: center;
+    width: 100%;
+    margin-top: -800px;
+    color:white;
+    
+    
+}
+
+
+footer{
+    margin-left: 10%;
+    margin-right: 10%;
+    border-radius: 7px;
+    padding: 5px;
+    color: lightseagreen;
+    background-color: black;
+    margin-top: 170px;
+    text-align-last: center;
+}
